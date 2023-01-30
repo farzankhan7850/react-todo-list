@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/farzankhan7850.github.io/react-todo-list/static/css/main.a0bca282.css",
+    "main.js": "/farzankhan7850.github.io/react-todo-list/static/js/main.850e3448.js",
+    "index.html": "/farzankhan7850.github.io/react-todo-list/index.html",
+    "main.a0bca282.css.map": "/farzankhan7850.github.io/react-todo-list/static/css/main.a0bca282.css.map",
+    "main.850e3448.js.map": "/farzankhan7850.github.io/react-todo-list/static/js/main.850e3448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0bca282.css",
+    "static/js/main.850e3448.js"
+  ]
+}
