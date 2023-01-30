@@ -11,6 +11,8 @@ export default function InputField(props) {
   }
 
   function handleClick() {
+
+    text !== "" && text !== " " &&
     props.setItem((prevValue) => {
       return [...prevValue, text];
     });
